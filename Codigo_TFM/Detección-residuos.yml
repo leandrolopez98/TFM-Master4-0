@@ -1,0 +1,6 @@
+
+train: /workspaces/TFM-Master4-0/TFM-Master4-0/Codigo_TFM/Train Images
+val: /workspaces/TFM-Master4-0/TFM-Master4-0/Codigo_TFM/Val Images
+
+nc: 6  # Número de clases
+names: ['botellas de plástico', 'botellas de vidrio', 'frascos', 'latas', 'cartón', 'detergentes']
